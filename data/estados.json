@@ -1,0 +1,130 @@
+[
+    {
+        "id_entidad": 1,
+        "descripcion": "AGUASCALIENTES"
+    },
+    {
+        "id_entidad": 2,
+        "descripcion": "BAJA CALIFORNIA"
+    },
+    {
+        "id_entidad": 3,
+        "descripcion": "BAJA CALIFORNIA SUR"
+    },
+    {
+        "id_entidad": 4,
+        "descripcion": "CAMPECHE"
+    },
+    {
+        "id_entidad": 5,
+        "descripcion": "COAHUILA DE ZARAGOZA"
+    },
+    {
+        "id_entidad": 6,
+        "descripcion": "COLIMA"
+    },
+    {
+        "id_entidad": 7,
+        "descripcion": "CHIAPAS"
+    },
+    {
+        "id_entidad": 8,
+        "descripcion": "CHIHUAHUA"
+    },
+    {
+        "id_entidad": 9,
+        "descripcion": "CIUDAD DE MEXICO"
+    },
+    {
+        "id_entidad": 10,
+        "descripcion": "DURANGO"
+    },
+    {
+        "id_entidad": 11,
+        "descripcion": "GUANAJUATO"
+    },
+    {
+        "id_entidad": 12,
+        "descripcion": "GUERRERO"
+    },
+    {
+        "id_entidad": 13,
+        "descripcion": "HIDALGO"
+    },
+    {
+        "id_entidad": 14,
+        "descripcion": "JALISCO"
+    },
+    {
+        "id_entidad": 15,
+        "descripcion": "MEXICO"
+    },
+    {
+        "id_entidad": 16,
+        "descripcion": "MICHOACAN DE OCAMPO"
+    },
+    {
+        "id_entidad": 17,
+        "descripcion": "MORELOS"
+    },
+    {
+        "id_entidad": 18,
+        "descripcion": "NAYARIT"
+    },
+    {
+        "id_entidad": 19,
+        "descripcion": "NUEVO LEON"
+    },
+    {
+        "id_entidad": 20,
+        "descripcion": "OAXACA"
+    },
+    {
+        "id_entidad": 21,
+        "descripcion": "PUEBLA"
+    },
+    {
+        "id_entidad": 22,
+        "descripcion": "QUERETARO"
+    },
+    {
+        "id_entidad": 23,
+        "descripcion": "QUINTANA ROO"
+    },
+    {
+        "id_entidad": 24,
+        "descripcion": "SAN LUIS POTOSI"
+    },
+    {
+        "id_entidad": 25,
+        "descripcion": "SINALOA"
+    },
+    {
+        "id_entidad": 26,
+        "descripcion": "SONORA"
+    },
+    {
+        "id_entidad": 27,
+        "descripcion": "TABASCO"
+    },
+    {
+        "id_entidad": 28,
+        "descripcion": "TAMAULIPAS"
+    },
+    {
+        "id_entidad": 29,
+        "descripcion": "TLAXCALA"
+    },
+    {
+        "id_entidad": 30,
+        "descripcion": "VERACRUZ DE IGNACIO DE LA LLAVE"
+    },
+    {
+        "id_entidad": 31,
+        "descripcion": "YUCATAN"
+    },
+    {
+        "id_entidad": 32,
+        "descripcion": "ZACATECAS"
+    }
+]
